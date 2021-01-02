@@ -28,7 +28,7 @@ su - BEONG -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n\n'
 if sudo apt-get upgrade &> /dev/null
 then
-    printf "\n\nUpgrade Completed " >&2
+    printf "\n\nUpgrade Completed. Thanks Sis Cute Bro Handsome <3 " >&2
 else
     printf "\n\nError Occured " >&2
 fi
